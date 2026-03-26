@@ -1,5 +1,5 @@
-First we need to install the whisper
-then we have to import the whisper
-loading the model at base level
-initializing the result to model transcribe
-at last initialize the result in text format
+# Speech2Text 
+
+A speech-to-text transcription project using OpenAI's Whisper model that converts
+audio input into text format with high accuracy across multiple languages.
+
